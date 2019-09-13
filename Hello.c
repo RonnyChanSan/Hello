@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-   printf("Lance McDonald");
+   printf("Hello Lance McDonald and Dan Navarro!");
    return 0;
 }
