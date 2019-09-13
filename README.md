@@ -1,2 +1,2 @@
 # Hello
-Hello program
+Hello program printing partner and my name
